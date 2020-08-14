@@ -1,0 +1,29 @@
+.mainPage {
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-direction: row;
+}
+
+.comparisonTool {
+    height: 100px;
+    overflow: auto;
+    width: inherit;
+    overflow: visible;
+}
+
+.apple {
+    float: left;
+    line-height: 5px;
+    background-color: #f7f7f7;
+    height: inherit;
+    width: 50%;
+}
+
+.benchmark {
+    float: right; 
+    vertical-align: middle; 
+    background: #eaecef;
+    height: inherit;
+    width: 50%;
+    overflow: visible;
+}

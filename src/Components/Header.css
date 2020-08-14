@@ -1,0 +1,47 @@
+.bigBox {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #072340;
+}
+
+.topNav {
+  vertical-align: center;
+}
+
+.title {
+  color: white;
+  line-height: 5px;
+  margin-bottom: 60px;
+}
+
+.bottomNav {
+  color: white;
+}
+
+.SAlogo {
+  height: 50px;
+  width: 120px;
+  align-self: first-baseline;
+}
+
+span {
+  float: right;
+}
+
+a {
+  display: inline-block;
+  padding-right: 30px;
+  text-decoration: none;
+  color: #a8b2bb;
+  padding: 0px 10px 15px 10px
+}
+
+.activeTab {
+  color: #2fadaa;
+  border-bottom: 4px solid teal;
+}
+
+#additionalActions {
+  float: right;
+  color: #a8b2bb;
+}
