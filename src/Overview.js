@@ -5,9 +5,8 @@ import Select from 'react-select';
 
 
 const options = [
-    { value: '100s', label: "100% VTSMX (Stock)"},
-    { value: '40s/60b', label: "40% VTSMX (Stock) + 60% VBMFX (Bond)"},
-    { value: '20s/80b', label: "20% VTSMX (Stock) + 80% VBMFX (Bond)"},
+    { value: '100s', label: "VTSMX (Stock)"},
+    { value: 'todo', label: "More to come!"},
 ]
 
 export default class Overview extends Component {
