@@ -25,6 +25,7 @@ export default class Overview extends Component {
      return (
          <div className="mainPage">
              <h2>Portfolio Benchmark</h2>
+             <h4>Please give it a couple seconds – Yahoo Finance API takes a while.</h4>
 
              <div className="comparisonTool">
                 <div className="apple">
