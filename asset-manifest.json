@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/stock-market-comparison/index.html/static/css/main.d77950cd.chunk.css",
-    "main.js": "/stock-market-comparison/index.html/static/js/main.00f069e8.chunk.js",
-    "main.js.map": "/stock-market-comparison/index.html/static/js/main.00f069e8.chunk.js.map",
-    "runtime-main.js": "/stock-market-comparison/index.html/static/js/runtime-main.732299ac.js",
-    "runtime-main.js.map": "/stock-market-comparison/index.html/static/js/runtime-main.732299ac.js.map",
-    "static/js/2.3e53f72a.chunk.js": "/stock-market-comparison/index.html/static/js/2.3e53f72a.chunk.js",
-    "static/js/2.3e53f72a.chunk.js.map": "/stock-market-comparison/index.html/static/js/2.3e53f72a.chunk.js.map",
-    "index.html": "/stock-market-comparison/index.html/index.html",
-    "precache-manifest.21e062c80393867330c8191782193fcc.js": "/stock-market-comparison/index.html/precache-manifest.21e062c80393867330c8191782193fcc.js",
-    "service-worker.js": "/stock-market-comparison/index.html/service-worker.js",
-    "static/css/main.d77950cd.chunk.css.map": "/stock-market-comparison/index.html/static/css/main.d77950cd.chunk.css.map",
-    "static/js/2.3e53f72a.chunk.js.LICENSE.txt": "/stock-market-comparison/index.html/static/js/2.3e53f72a.chunk.js.LICENSE.txt"
+    "main.css": "/stock-market-comparison/static/css/main.d77950cd.chunk.css",
+    "main.js": "/stock-market-comparison/static/js/main.9688243c.chunk.js",
+    "main.js.map": "/stock-market-comparison/static/js/main.9688243c.chunk.js.map",
+    "runtime-main.js": "/stock-market-comparison/static/js/runtime-main.46c7154c.js",
+    "runtime-main.js.map": "/stock-market-comparison/static/js/runtime-main.46c7154c.js.map",
+    "static/js/2.3e53f72a.chunk.js": "/stock-market-comparison/static/js/2.3e53f72a.chunk.js",
+    "static/js/2.3e53f72a.chunk.js.map": "/stock-market-comparison/static/js/2.3e53f72a.chunk.js.map",
+    "index.html": "/stock-market-comparison/index.html",
+    "precache-manifest.1d130305ab99b04de8a643943f047c2b.js": "/stock-market-comparison/precache-manifest.1d130305ab99b04de8a643943f047c2b.js",
+    "service-worker.js": "/stock-market-comparison/service-worker.js",
+    "static/css/main.d77950cd.chunk.css.map": "/stock-market-comparison/static/css/main.d77950cd.chunk.css.map",
+    "static/js/2.3e53f72a.chunk.js.LICENSE.txt": "/stock-market-comparison/static/js/2.3e53f72a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.732299ac.js",
+    "static/js/runtime-main.46c7154c.js",
     "static/js/2.3e53f72a.chunk.js",
     "static/css/main.d77950cd.chunk.css",
-    "static/js/main.00f069e8.chunk.js"
+    "static/js/main.9688243c.chunk.js"
   ]
 }
