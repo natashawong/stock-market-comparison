@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb466964233bf4598edf3d20a6e86534",
+    "revision": "40fdbca6ed8de148a5460549d155c735",
     "url": "/stock-market-comparison/index.html/index.html"
   },
   {
-    "revision": "b8d7d336aada5cddc2fa",
+    "revision": "12f3e3402a7ce69b6750",
     "url": "/stock-market-comparison/index.html/static/css/main.d77950cd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stock-market-comparison/index.html/static/js/2.3e53f72a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8d7d336aada5cddc2fa",
-    "url": "/stock-market-comparison/index.html/static/js/main.00f069e8.chunk.js"
+    "revision": "12f3e3402a7ce69b6750",
+    "url": "/stock-market-comparison/index.html/static/js/main.7f8e4c1d.chunk.js"
   },
   {
     "revision": "5240aa586c9fb41f6bd9",
